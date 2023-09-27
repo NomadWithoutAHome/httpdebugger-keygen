@@ -2,7 +2,7 @@
 
 HTTPDebugger Keygen is a Python utility that generates and writes license keys for HTTPDebugger Pro.
 
-# Shots
+# Screenshot
 ![HTTPDebugger Keygen Screenshot](https://i.imgur.com/mihY41Q.png)
 
 ## Table of Contents
